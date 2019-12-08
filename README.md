@@ -3,4 +3,4 @@ tutorial
 
 checking out github
 
-tutorial ppurposes
+tutorial ppurposes.
